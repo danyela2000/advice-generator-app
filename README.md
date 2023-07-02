@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/danyela2000/advice-generator-app](https://github.com/danyela2000/advice-generator-app)
+- Live Site URL: [https://cosmic-chaja-0ef360.netlify.app/](https://cosmic-chaja-0ef360.netlify.app/)
 
 ## My process
 
